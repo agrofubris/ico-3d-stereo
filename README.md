@@ -6,7 +6,7 @@ reversed), and Leia SR lenticular panels.
 
 ## Play in 3 steps (Windows)
 
-1. **Download** `ico-3d-stereo-v0.2.0-stereo-win.zip` from
+1. **Download** `ico-3d-stereo-v0.2.0-win.zip` from
    [Releases](https://github.com/agrofubris/ico-3d-stereo/releases) and
    unzip it anywhere you can write to.
 2. **Place your ISO**: you need your own disc image of ICO, PAL version
