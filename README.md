@@ -2,7 +2,9 @@
 
 **ICO** (2001) playable on PC in stereoscopic 3D: side-by-side (half and
 full), top-and-bottom (half and full), cross-view, interlaced (normal and
-reversed), and Leia SR lenticular panels.
+reversed), and Leia SR lenticular panels. The optional Leia SR loader ships
+in the zip; without the SR Platform installed the mode falls back to clean
+side-by-side.
 
 ## Play in 3 steps (Windows)
 
