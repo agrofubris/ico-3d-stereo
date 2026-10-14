@@ -22,6 +22,8 @@ Pick your display format in the game: **Settings > Display > 3D mode**.
 Docs and development live upstream at
 [github.com/nathanialf/ico-pc](https://github.com/nathanialf/ico-pc). For
 Linux or the game's regular (non-3D) releases, see the releases there.
+This community build is based on ico-pc v0.2.0; upstream's releases are
+newer.
 
 ## Credits
 
