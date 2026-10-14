@@ -6,6 +6,8 @@ reversed), and Leia SR lenticular panels. The optional Leia SR loader ships
 in the zip; without the SR Platform installed the mode falls back to clean
 side-by-side.
 
+![ICO in side-by-side stereoscopic 3D](screenshot-sbs.png)
+
 ## Play in 3 steps (Windows)
 
 1. **Download** `ico-3d-stereo-v0.2.0-win.zip` from
